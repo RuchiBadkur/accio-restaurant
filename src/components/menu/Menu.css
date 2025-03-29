@@ -1,0 +1,19 @@
+.menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.menu-item {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    text-align: center;
+    background: #fff;
+    border-radius: 8px;
+}
+.menu-img {
+    width: 100px;
+    height: auto;
+    border-radius: 5px;
+}
